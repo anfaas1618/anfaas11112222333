@@ -1,0 +1,35 @@
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/RubikMedium.ttf");
+  font-family: "Rubik";
+  font-weight: 500;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/RubikRegular.ttf");
+  font-family: "Rubik";
+  font-weight: 400;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/RubikBold.ttf");
+  font-family: "Rubik";
+  font-weight: 700;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/NunitoExtraBold.ttf");
+  font-family: "Nunito";
+  font-weight: 800;
+}
+@font-face {
+  font-display: swap;
+  font-style: normal;
+  src: url("/public/fonts/NunitoBold.ttf");
+  font-family: "Nunito";
+  font-weight: 700;
+}
